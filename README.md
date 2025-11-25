@@ -17,13 +17,4 @@ To deploy:
 3. Go to `Actions` tab > Click `run the bot` > Click `Run Workflow`
 
 ---
-
-## 🔗 Useful Links
-
-- [🔗 Tutorial video](https://youtu.be/3HjaQzfcXBI?si=qmztUD_UAWjDbx9m)
-
-
-- [💬 Join Discord](https://discord.gg/hZf4j8GzzK)
-
-
-## 🧠 First watch Tutorial video 😎
+##
